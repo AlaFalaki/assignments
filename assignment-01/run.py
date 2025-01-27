@@ -1,5 +1,8 @@
 from utils.data_types import InputDataType, MetricType
 from src.optimizer import ThresholdOptimizer
+import logging
+
+logging.basicConfig(level=logging.INFO) # Or, logging.DEBUG to get all the logs
 
 def main():
     # Sample Data
