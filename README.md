@@ -13,6 +13,7 @@ git clone https://github.com/AlaFalaki/assignments.git
 1. Create a virtual environment and activate it:
 
 ```
+cd assignments
 python -m venv .venv
 source .venv/bin/activate
 
