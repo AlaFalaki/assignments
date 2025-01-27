@@ -14,7 +14,7 @@ git clone https://github.com/AlaFalaki/assignments.git
 
 ```
 cd assignments
-python -m venv .venv
+python3 -m venv .venv
 source .venv/bin/activate
 
 # For Windows:
